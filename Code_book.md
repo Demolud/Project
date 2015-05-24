@@ -75,7 +75,7 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 - tBodyGyroMean
 - tBodyGyroJerkMean
 
-## Information about the final variables
+## Information about the variables in the tidy data set
 The final tidy data set created by the run_analysis.R contains all mean and standard deviation variables from the source data set.
 For every subject (volunteer) and activity multiple observations were recorded for every variable in the source data.
 In the tidy data set it is calculated average of all these multiple observations for every subject and activity.
